@@ -13,7 +13,7 @@ after the check you can export the data to a file.
 
 second file is the **app.py** file and its holds the code to the main application! 
 
-After all the installation of the suspensions if necessary, the code must be run by the following command:
+After all the installation of the requirements if necessary, the code must be run by the following command:
 
 **streamlit run myfile.py**
 
