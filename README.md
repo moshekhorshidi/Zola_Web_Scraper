@@ -4,7 +4,7 @@ Hi everybody,
 
 In this project I built a web scraper that provides every real estate agent who wants to know the essential details about a lot/property in New York City from the official website of the City of New York.
 
-How to use the tool?
+How to use the web application?
 
 Copy the code as it is, check that our machine has all the dependencies that need to be installed. (A dependencies document is attached in the project folder)
 
