@@ -1,12 +1,12 @@
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service  
 from webdriver_manager.chrome import ChromeDriverManager
-import time
-import streamlit as st
-import csv
+from selenium import webdriver
 import pandas as pd
+import time
+import csv
+
 
 
 # Get the number of user inputs
