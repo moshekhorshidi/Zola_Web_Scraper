@@ -8,10 +8,10 @@ How to use the web application?
 
 Copy the code as it is, check that our machine has all the dependencies that need to be installed. (A dependencies document is attached in the project folder)
 
-first file to check out is test_dev, that you can use witaot the application, test_dev.py, in this test file you can insert the number of serches and get the data for each address. 
+first file to check out is test_dev, that you can use witaot the application, **test_dev.py**, in this test file you can insert the number of serches and get the data for each address. 
 after the check you can export the data to a file. 
 
-second file is the app.py file and its holds the code to the main application! 
+second file is the **app.py** file and its holds the code to the main application! 
 
 After all the installation of the suspensions if necessary, the code must be run by the following command:
 
