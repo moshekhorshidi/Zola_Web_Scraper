@@ -17,7 +17,7 @@ After all the installation of the requirements if necessary, the code must be ru
 
 **streamlit run myfile.py**
 
-After running, the application will come up and you can enter the address on which we want to receive the details.
+After running, the application will load up and you can enter the address on which we want to receive the details.
 
 Image demonstrating the application:
 
